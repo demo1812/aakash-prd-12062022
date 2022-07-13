@@ -10,7 +10,108 @@
 
 <div class="timeline-row">
 			<div class="timeline-time">
-				2021<small>May</small>
+				2022<small>June</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(1st week)</h4>
+				<p>
+				How fast time goes Now it's time for june * month, I would say it is a best for you , In this month you have done many things firstly you went for secret night out with your friends and your parents had no idea about that and in night out you seen whole Lucknow how it's look like in night overall it was a good plan of night out in fact I would say Girls night out.
+				</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/26.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/27.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/28.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>June</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(2nd week)</h4>
+				<p>
+				You have came a long way from being miss counselor to miss beauty experty Congratulations :->
+				You had a great responsibility of doing makeup and to adorn the bride in her wedding.. and all these ended in very dramatic manner because of your friends aastha and snigdha  Apart from that you had a great time with your files  there was a lots of file which you have completed successfully.. and main things you got a internship certificate without attending even a single class .
+				</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/29.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/30.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/31.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>June</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(2nd week)</h4>
+				<p>
+				And we had a long discussion related to our names :-) Still in confusion by which name we should call each other .
+				And Big congratulations you have successfully completed your B.Ed with Heera lal without much pain. 
+				And what to say about that Evil dead movie $$ which is now one of your favourite ... 
+				And yaad hai na about udaipur trip....we have to meet with bhooth 
+
+				So overall it was good month for you and main highlight was that you have completed your B.Ed successful 
+				</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/32.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/33.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/25.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+	
+<hr>
+
+<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>June</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<p>
+I don't know tm read bhi kr rhi hoge ye line,
+but The fact is Sometimes it really hurts when something unintentionally happened
+Zaroori nahi hai kisi bhi side s ho....
+
+
+but hame bura bhi unhi baato se lagta hai....
+Kash mujhe pata nahi chalta 
+lekin Honi ko kon taaal skta hai
+Sorry agar meri kisi baat se bura laga ho to....
+
+				</p>
+				
+			</div>
+		</div>
+
+
+
+		
+<hr>
+
+<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>May</small>
 			</div>
 			<div class="timeline-content">
 				<i class="icon-directions">&#10084;</i>
@@ -32,7 +133,7 @@
 
 		<div class="timeline-row">
 			<div class="timeline-time">
-				2021<small>May</small>
+				2022<small>May</small>
 			</div>
 			<div class="timeline-content">
 				<i class="icon-change_history">&#10084;</i>
@@ -57,7 +158,7 @@ You saw the movie "Don't Look Up" and your mind was completely blank as a result
 		</div>
 		<div class="timeline-row">
 			<div class="timeline-time">
-				2021<small>May</small>
+				2022<small>May</small>
 			</div>
 			<div class="timeline-content">
 				<i class="icon-directions">&#10084;</i>
@@ -83,7 +184,7 @@ Apart from that, it stings when friends does natak, and I believe you know who I
 
 		<div class="timeline-row">
 			<div class="timeline-time">
-				2021<small>May</small>
+				2022<small>May</small>
 			</div>
 			<div class="timeline-content">
 				<i class="icon-change_history">&#10084;</i>
@@ -103,7 +204,7 @@ And, most importantly, you have the intention of starting a job...I believe this
 			</div>
 		</div>
 		
-		
+		<hr>
 
 		<div class="timeline-row">
 			<div class="timeline-time">
