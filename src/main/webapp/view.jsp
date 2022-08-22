@@ -8,6 +8,106 @@
 <div class="timeline">
 
 
+
+<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>July</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(1st week)</h4>
+				<p>
+I don't think it was a best month for you many things happen and Those things still come in my mind every day. I don't know about what you are feeling but I know that was not a greatest time which you have faced.. and from that incident I think many things have changed but never know what happens next .
+<br>
+<i>Apart from that you remember that movie 
+Evil dead....woh scene jisme woh neeche se dekhti hai woh ladki.. That scene toh kabhi nhi bhool paunga</i>
+
+				</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/34.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/35.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>July</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(2nd week)</h4>
+				<p>
+You went to Dewa sharif aur bht dhoop thi us din and you know better snap aaya tha Jisme halat kharab lg rahi thi tmhari <br>
+You applied some YouTube tutorials on your hair...and it was successful experiment bht sahi lg rahe they hairs<br>
+
+And you got your result from hero hera lal with 79 percentage congratulations for your achievement<br>
+				</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/35.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/36.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>July</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<h4>(3rd week)</h4>
+				<p>
+And you remember about that filter aaj bhi dekh ke hasi aati hai itni...lekin tmne cheating kiya tha <br>
+Your farewell which you ignored like the first piece of bread <br>
+I have told you about some movies and series I don't know you have seen or not but dekhna jarur jb time mile				
+
+</p>
+				<div class="thumbs">
+					<img class="img-fluid rounded" src="images/37.jpeg" alt="Maxwell Admin">
+					<img class="img-fluid rounded" src="images/38.jpeg" alt="Maxwell Admin">
+				</div>
+				
+				<div>
+					<span class="badge badge-pill">Please zoom into every pitchure</span>
+				</div>
+			</div>
+		</div>
+	
+<hr>
+
+<div class="timeline-row">
+			<div class="timeline-time">
+				2022<small>June</small>
+			</div>
+			<div class="timeline-content">
+				<i class="icon-directions">&#10084;</i>
+				<p>
+I don't know tm read bhi kr rhi hoge ye line,
+but The fact is Sometimes it really hurts when something unintentionally happened
+Zaroori nahi hai kisi bhi side s ho....
+
+
+but hame bura bhi unhi baato se lagta hai....
+Kash mujhe pata nahi chalta 
+lekin Honi ko kon taaal skta hai
+Sorry agar meri kisi baat se bura laga ho to....
+
+				</p>
+			</div>
+		</div>
+		
+<hr>
+
+
 <div class="timeline-row">
 			<div class="timeline-time">
 				2022<small>June</small>
